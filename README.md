@@ -15,3 +15,10 @@ The project consists of various features built following the S.O.L.I.D principle
 
    
 ![bms-db](https://github.com/sanakamal1405/BookMyShow/assets/61350623/e4b69782-0dc5-477e-a739-2e6115ce996d)
+
+
+Below shows movie-creation and latest-movie api in action :
+
+
+![movie-creation](https://github.com/sanakamal1405/BookMyShow/assets/61350623/58ac2871-568b-42bd-8edb-c7487c3bb213)
+![latest-movies](https://github.com/sanakamal1405/BookMyShow/assets/61350623/0b0d19d1-2a44-4103-8d37-23baf308f59d)
